@@ -721,7 +721,6 @@ Casting
 ```
 ![KakaoTalk_20240715_134753083](https://github.com/user-attachments/assets/72e25b77-05a7-455e-9669-6c52107b1c29)
 
-
 Casting을 잘 사용하는 방법
 ```
 모든 자식들을 하나의 타입으로 묶을 때 up casting을 진행한다.
@@ -729,9 +728,7 @@ Casting을 잘 사용하는 방법
 해당 타입으로 down casting을 진행한다.
 즉, 묶어서 하나의 타입으로 받고, 다시 원래 타입으로 복구하자!
 ```
-
 ![KakaoTalk_20240715_135508656](https://github.com/user-attachments/assets/96abd9f3-89a0-4e70-8092-8037b2ed1292)
-
 
 <div style="text-align: right"> 
 
